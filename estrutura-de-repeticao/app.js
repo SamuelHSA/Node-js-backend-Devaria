@@ -24,3 +24,17 @@ console.log('--------------------- Executando um FOR OF --------------------');
 for(const argumento of listaArgumentos) {
     console.log(`Valor lido = ${argumento}`);
 }
+
+// for (let controladorFor = 0; controladorFor < 9; controladorFor++)   {
+//     console.log(controladorFor);
+// }
+
+//---------------------------------------------------------------------------------
+
+// var controladorFor = 0;
+// for (; controladorFor < 9; controladorFor++) {
+//     console.log(controladorFor);
+// }
+
+//---------------------------------------------------------------------------------
+
